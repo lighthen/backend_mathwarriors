@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Credentials & config
+config/firebase-key.json
+config/database.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# User uploads (keep folder, ignore contents)
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+*.log
+
+# AGENTS.md
+AGENTS.md
